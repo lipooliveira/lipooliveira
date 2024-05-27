@@ -6,12 +6,13 @@
 
 ## Estatísticas GitHub
 <p align="center">
-  <a href="https://github.com/LipoGamesBR"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipooliveira&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lipooliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/lipooliveira"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipooliveira&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lipooliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
 
   <a href="https://wakatime.com/@lipogamesbr">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lipooliveira&langs_count=10&layout=compact&theme=dracula"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lipogamesbr&langs_count=10&layout=compact&theme=dracula"/>
   </a>
 
 </p>
